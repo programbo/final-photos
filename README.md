@@ -1,5 +1,7 @@
 # Final Photos
 
+Low-friction photo delivery
+
 ## Stack
 
 * Next.js v10.x
